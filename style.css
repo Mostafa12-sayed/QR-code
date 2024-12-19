@@ -12,7 +12,6 @@ body {
 }
 .container {
   width: 280px;
-  height: 460px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 10px;
   padding: 15px;
@@ -35,6 +34,7 @@ body {
 }
 .container p {
   margin: 0 10px;
+  margin-bottom: 20px;
   color: hsl(216, 15%, 48%);
   font-weight: 400;
 }
